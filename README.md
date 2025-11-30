@@ -10,6 +10,10 @@ AI-powered real-time security and surveillance platform with multi-object tracki
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+## 🌐 Live Demo
+
+**🚀 [Try the Live App!](https://ai-security-surveillance-system.streamlit.app/)** 
 ---
 
 ## 🎯 Project Overview
